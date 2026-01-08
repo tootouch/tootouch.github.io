@@ -11,49 +11,49 @@
     "title": "Normalizing flow-based latent space mapping for implicit pattern authentication on mobile devices",
     "authors": "<strong>Jaehyuk Heo</strong>, Jeongseob Kim, Eui Suk Chung, Subin Kim, Pilsung Kang*",
     "venue": "Applied Soft Computing, 169, 112469 (IF: 7.2)",
-    "links": [{"label": "Paper", "url": "#"}]
+    "links": [{"label": "Paper", "url": "https://www.sciencedirect.com/science/article/pii/S1568494624012432"}]
   },
   {
     "year": "2023",
     "title": "Exploring the differences in adversarial robustness between ViT- and CNN-based models using novel metrics",
     "authors": "<strong>Jaehyuk Heo</strong>+, Seungwan Seo+, Pilsung Kang*",
     "venue": "Computer Vision and Image Understanding, 235, 103800 (IF: 4.886)",
-    "links": [{"label": "Paper", "url": "#"}]
+    "links": [{"label": "Paper", "url": "https://www.sciencedirect.com/science/article/pii/S1077314223001807"}]
   },
   {
     "year": "2022",
     "title": "REVECA: Rich Encoder-decoder framework for Video Event CAptioner",
     "authors": "<strong>Jaehyuk Heo</strong>, YongGi Jeong, Sunwoo Kim, Jaehee Kim, Pilsung Kang*",
     "venue": "Workshop for LOng-form VidEo Understanding Challenge (LOVEU) in CVPR",
-    "links": [{"label": "Paper", "url": "#"}, {"label": "Code ⭐26", "url": "https://github.com/TooTouch/REVECA"}]
+    "links": [{"label": "Paper", "url": "https://arxiv.org/abs/2206.09178"}, {"label": "Code", "url": "https://github.com/TooTouch/REVECA"}]
   },
   {
     "year": "2021",
     "title": "Text-to-SQL for Korean Language based on Multilingual BERT",
     "authors": "Hoonsang Yoon, <strong>Jaehyuk Heo</strong>, Jeongseob Kim, Pilsung Kang*",
     "venue": "Journal of the Korean Institute of Industrial Engineers, 48(1), 91-104",
-    "links": [{"label": "Paper", "url": "#"}, {"label": "Code ⭐19", "url": "https://github.com/TooTouch/SpiderSQL"}]
+    "links": [{"label": "Paper", "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11033024"}, {"label": "Code", "url": "https://github.com/TooTouch/SpiderSQL"}]
   },
   {
     "year": "2020",
     "title": "Prediction of Intracranial Aneurysm Risk using Machine Learning",
     "authors": "<strong>Jaehyuk Heo</strong>, Sang Jun Park, Si-Hyuck Kang, Chang Wan Oh, Jae Seung Bang, Tackeun Kim*",
     "venue": "Scientific Reports, 10(1), 1-10 (IF: 4.418)",
-    "links": [{"label": "Paper", "url": "#"}]
+    "links": [{"label": "Paper", "url": "https://www.nature.com/articles/s41598-020-63906-8"}]
   },
   {
     "year": "2019",
     "title": "Vascular tortuosity of the internal carotid artery is related to the RNF213 c.14429G>A variant in moyamoya disease",
     "authors": "Sungjae An, Tackeun Kim*, Chang Wan Oh, Jae Seung Bang, Si Un Lee, <strong>Jaehyuk Heo</strong>",
     "venue": "Scientific Reports, 9(1), 1-7 (IF: 4.489)",
-    "links": [{"label": "Paper", "url": "#"}]
+    "links": [{"label": "Paper", "url": "https://www.nature.com/articles/s41598-019-45141-y"}]
   },
   {
     "year": "2019",
     "title": "Machine learning for detecting moyamoya disease in plain skull radiography using a convolutional neural network",
     "authors": "Tackeun Kim, <strong>Jaehyuk Heo</strong>, Dong-Kyu Jang, Leonard Sunwoo, Joonghee Kim, Kyong Joon Lee, Si-Hyuck Kang, Sang Jun Park, O-Ki Kwon, Chang Wan Oh*",
     "venue": "EBioMedicine, 40, 636-642 (IF: 6.68)",
-    "links": [{"label": "Paper", "url": "#"}]
+    "links": [{"label": "Paper", "url": "https://reader.elsevier.com/reader/sd/pii/S2352396418306200?token=9D2CCB508C7E6914052248790C224A0EEC36424A16EB0D6D5EB0EBED6628BB7B801C4B097AA4D96582B1F3879B10A3E6&originRegion=us-east-1&originCreation=20211220003430"}]
   },
   {
     "year": "Under Review",
