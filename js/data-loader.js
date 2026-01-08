@@ -1,8 +1,19 @@
 // Data loader for the website
 // This script loads data from JSON files and renders them on the page
 
+// Get base path for data files
+function getBasePath() {
+    const path = window.location.pathname;
+    // If we're in a subdirectory or on a subpage, adjust the path
+    if (path.includes('.html') && !path.endsWith('index.html')) {
+        return './';
+    }
+    return './';
+}
+
 async function loadJSON(url) {
-    const response = await fetch(url);
+    const basePath = getBasePath();
+    const response = await fetch(basePath + url);
     return response.json();
 }
 
