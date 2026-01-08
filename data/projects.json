@@ -1,62 +1,47 @@
 [
   {
     "title": "[Samsung Electronics] Anomaly Detection for Kitchen Robot–Equipment Systems",
-    "description": "Developed multimodal anomaly detection model based on log and video data",
-    "year": "2025-2026"
+    "description": "Developed a multimodal anomaly detection model based on log and video data; Designed a predictive maintenance framework leveraging early anomaly indicators",
+    "year": "Jul 2025 - May 2026"
   },
   {
     "title": "[Samsung Electronics] Agile Equipment/Process Quality Anomaly Detection",
-    "description": "Designed algorithms for quality anomaly detection using FDC data",
-    "year": "2025-2026"
+    "description": "Explored methodologies for analysing FDC and measurement data; Designed algorithms for quality anomaly detection and quantifying equipment operation quality",
+    "year": "Mar 2025 - Feb 2026"
   },
   {
-    "title": "[Samsung Electronics] Multimodal AI for New Product Services",
-    "description": "Development of new product services using multimodal AI",
-    "year": "2024"
-  },
-  {
-    "title": "[Kakao Entertainment] Genre Novel Writing Engine",
-    "description": "Research and development of genre novel writing engine",
-    "year": "2023"
-  },
-  {
-    "title": "[NIA] Unstructured Text Data Construction",
-    "description": "Unstructured text data construction and ethics verification",
-    "year": "2023"
+    "title": "[Hyundai] Qualitative Evaluation Prediction Based on a Data Framework",
+    "description": "Predicted door opening/closing affective scores from quantitative data; Developed algorithm using spectrum images; Built UI-based tool for simplified workflow",
+    "year": "Sep 2024 - Aug 2025"
   },
   {
     "title": "[LG Innotek] Multi-Modal Learning with Tabular and Image",
-    "description": "Developed multi-modal learning model for heterogeneous data",
-    "year": "2023-2024"
+    "description": "Developed a Multi-Modal Learning model for heterogeneous data; Applied image–tabular multi-modal learning for cumulative pitch prediction",
+    "year": "Apr 2023 - Feb 2024"
   },
   {
     "title": "[Samsung S.LSI] Active Learning–based Defect Data Labelling Framework",
-    "description": "Developed Active Learning technique for defect detection",
-    "year": "2023-2024"
+    "description": "Developed technique to acquire minimised labelled data for detecting new defect types; Designed query strategy algorithm with uncertainty and diversity",
+    "year": "Mar 2023 - Feb 2024"
   },
   {
-    "title": "[LG Electronics] Multi-class Anomaly Detection",
-    "description": "Research on multi-class anomaly detection techniques",
-    "year": "2022"
+    "title": "[NIA & Bflysoft] Fake News Detection",
+    "description": "Developed fake news detection models for title-content consistency and within-content consistency",
+    "year": "May 2022 - Dec 2022"
   },
   {
-    "title": "[Hyundai NGV] Graph Neural Network for Control Network Anomaly Detection",
-    "description": "Anomaly detection in control networks using graph neural networks",
-    "year": "2022"
+    "title": "[Kakao Bank] Touch Dynamics on Random PIN Pad",
+    "description": "Developed user characteristics classification model using dynamics data; Proposed normalizing flow-based user authentication model",
+    "year": "Nov 2021 - May 2022"
   },
   {
-    "title": "[Samsung Electronics DS] Yield Prediction Competition",
-    "description": "Yield prediction competition based on manufacturing process data",
-    "year": "2022"
-  },
-  {
-    "title": "[Samsung Electronics DS] Semiconductor Wafer Anomaly Detection",
-    "description": "Semiconductor wafer anomaly detection research",
-    "year": "2021"
+    "title": "[Hanwha System/ICT] Model Development for Predictive Preservation Platform",
+    "description": "Established data-based predictive maintenance system; Built detection system using Isolation Forest for fault diagnosis",
+    "year": "Mar 2021 - Dec 2021"
   },
   {
     "title": "[SNUBH] AI for Medical Imaging",
-    "description": "Disease diagnosis research based on brain MRA and skull X-ray images",
-    "year": "2017-2019"
+    "description": "Study on brain neurological diseases through machine learning; Developed models for moyamoya disease and intracranial aneurysm risk prediction",
+    "year": "Jul 2018 - May 2019"
   }
 ]
