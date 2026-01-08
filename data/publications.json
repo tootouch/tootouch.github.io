@@ -1,0 +1,79 @@
+[
+  {
+    "year": "2026",
+    "title": "Multi-class Image Anomaly Detection for Practical Applications: Requirements and Proposed Solution",
+    "authors": "<strong>Jaehyuk Heo</strong>, Pilsung Kang*",
+    "venue": "Neurocomputing (IF: 6.5)",
+    "links": [{"label": "Paper", "url": "#"}]
+  },
+  {
+    "year": "2025",
+    "title": "Normalizing flow-based latent space mapping for implicit pattern authentication on mobile devices",
+    "authors": "<strong>Jaehyuk Heo</strong>, Jeongseob Kim, Eui Suk Chung, Subin Kim, Pilsung Kang*",
+    "venue": "Applied Soft Computing, 169, 112469 (IF: 7.2)",
+    "links": [{"label": "Paper", "url": "#"}]
+  },
+  {
+    "year": "2023",
+    "title": "Exploring the differences in adversarial robustness between ViT- and CNN-based models using novel metrics",
+    "authors": "<strong>Jaehyuk Heo</strong>+, Seungwan Seo+, Pilsung Kang*",
+    "venue": "Computer Vision and Image Understanding, 235, 103800 (IF: 4.886)",
+    "links": [{"label": "Paper", "url": "#"}]
+  },
+  {
+    "year": "2022",
+    "title": "REVECA: Rich Encoder-decoder framework for Video Event CAptioner",
+    "authors": "<strong>Jaehyuk Heo</strong>, YongGi Jeong, Sunwoo Kim, Jaehee Kim, Pilsung Kang*",
+    "venue": "Workshop for LOng-form VidEo Understanding Challenge (LOVEU) in CVPR",
+    "links": [{"label": "Paper", "url": "#"}, {"label": "Code ⭐26", "url": "https://github.com/TooTouch/REVECA"}]
+  },
+  {
+    "year": "2021",
+    "title": "Text-to-SQL for Korean Language based on Multilingual BERT",
+    "authors": "Hoonsang Yoon, <strong>Jaehyuk Heo</strong>, Jeongseob Kim, Pilsung Kang*",
+    "venue": "Journal of the Korean Institute of Industrial Engineers, 48(1), 91-104",
+    "links": [{"label": "Paper", "url": "#"}, {"label": "Code ⭐19", "url": "https://github.com/TooTouch/SpiderSQL"}]
+  },
+  {
+    "year": "2020",
+    "title": "Prediction of Intracranial Aneurysm Risk using Machine Learning",
+    "authors": "<strong>Jaehyuk Heo</strong>, Sang Jun Park, Si-Hyuck Kang, Chang Wan Oh, Jae Seung Bang, Tackeun Kim*",
+    "venue": "Scientific Reports, 10(1), 1-10 (IF: 4.418)",
+    "links": [{"label": "Paper", "url": "#"}]
+  },
+  {
+    "year": "2019",
+    "title": "Vascular tortuosity of the internal carotid artery is related to the RNF213 c.14429G>A variant in moyamoya disease",
+    "authors": "Sungjae An, Tackeun Kim*, Chang Wan Oh, Jae Seung Bang, Si Un Lee, <strong>Jaehyuk Heo</strong>",
+    "venue": "Scientific Reports, 9(1), 1-7 (IF: 4.489)",
+    "links": [{"label": "Paper", "url": "#"}]
+  },
+  {
+    "year": "2019",
+    "title": "Machine learning for detecting moyamoya disease in plain skull radiography using a convolutional neural network",
+    "authors": "Tackeun Kim, <strong>Jaehyuk Heo</strong>, Dong-Kyu Jang, Leonard Sunwoo, Joonghee Kim, Kyong Joon Lee, Si-Hyuck Kang, Sang Jun Park, O-Ki Kwon, Chang Wan Oh*",
+    "venue": "EBioMedicine, 40, 636-642 (IF: 6.68)",
+    "links": [{"label": "Paper", "url": "#"}]
+  },
+  {
+    "year": "Under Review",
+    "title": "Domain Adaptation of Attention Heads for Zero-shot Anomaly Detection",
+    "authors": "Kiyoon Jeong+, <strong>Jaehyuk Heo</strong>+, Junyeong Son, Pilsung Kang*",
+    "venue": "Under Review at Computer Vision and Image Understanding",
+    "links": []
+  },
+  {
+    "year": "Under Review",
+    "title": "Avoid Wasted Annotation Costs in Open-set Active Learning with Pre-trained Vision-Language Model",
+    "authors": "<strong>Jaehyuk Heo</strong>, Pilsung Kang*",
+    "venue": "Under Review at Engineering Applications of Artificial Intelligence",
+    "links": []
+  },
+  {
+    "year": "Under Review",
+    "title": "Student-Teacher Framework for Adversarial Example Detection Based on Distortion Information",
+    "authors": "KyoungChan Park, <strong>Jaehyuk Heo</strong>, Seungwan Seo, Yonggi Jeong, Pilsung Kang*",
+    "venue": "Under Review at Pattern Recognition Letters",
+    "links": []
+  }
+]

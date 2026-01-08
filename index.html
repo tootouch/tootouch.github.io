@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jaehyuk Heo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1>Jaehyuk Heo <span class="korean">허재혁</span></h1>
+                    <p class="intro">
+                        Hello! I am a <strong>Ph.D. student</strong> in Industrial Engineering at 
+                        <a href="http://dsba.snu.ac.kr">Seoul National University</a>, advised by 
+                        <a href="http://dsba.snu.ac.kr">Prof. Pilsung Kang</a>. 
+                        I am also CTO at <a href="#">TALOS</a>.
+                    </p>
+                    <p class="intro">
+                        Previously, I received my M.S. from <a href="#">Korea University</a> and 
+                        B.S. from <a href="#">The University of Suwon</a>. 
+                        I was an AI Researcher at Seoul National University Bundang Hospital.
+                    </p>
+                    <p class="intro">
+                        My research focuses on <strong>Anomaly Detection</strong> and <strong>Active Learning</strong>, 
+                        with applications in industrial and medical domains.
+                    </p>
+                    <p class="contact">
+                        Contact: jaehyuk.heo [at] snu.ac.kr
+                    </p>
+                    <div class="links">
+                        <a href="assets/tootouch_cv.pdf">CV</a>
+                        <span class="divider">|</span>
+                        <a href="https://github.com/tootouch">GitHub</a>
+                        <span class="divider">|</span>
+                        <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a>
+                        <span class="divider">|</span>
+                        <a href="mailto:jaehyuk.heo@snu.ac.kr">Email</a>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <img src="assets/tootouch.jpeg" alt="Jaehyuk Heo">
+                </div>
+            </div>
+        </section>
+
+        <!-- Interests & Education -->
+        <section class="two-column">
+            <div class="column">
+                <h2>Interests</h2>
+                <ul class="interest-list">
+                    <li>Anomaly Detection</li>
+                    <li>Active Learning</li>
+                    <li>Computer Vision</li>
+                    <li>Deep Learning</li>
+                </ul>
+            </div>
+            <div class="column">
+                <h2>Education</h2>
+                <ul class="education-list">
+                    <li>
+                        <span class="degree">Ph.D. in Industrial Engineering</span>
+                        <span class="school">Seoul National University (2024 - Present)</span>
+                    </li>
+                    <li>
+                        <span class="degree">M.S. in Industrial Management & Engineering</span>
+                        <span class="school">Korea University (2021 - 2024)</span>
+                    </li>
+                    <li>
+                        <span class="degree">B.S. in Applied Statistics</span>
+                        <span class="school">The University of Suwon (2013 - 2019)</span>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- News -->
+        <section id="news">
+            <h2>News</h2>
+            <ul class="news-list" id="news-list">
+                <!-- Loaded dynamically from data/news.json -->
+            </ul>
+            <p class="see-all"><a href="news.html">See all news →</a></p>
+        </section>
+
+        <!-- Publications -->
+        <section id="publications">
+            <h2>Selected Publications</h2>
+            <ul class="pub-list" id="pub-list">
+                <!-- Loaded dynamically from data/publications.json -->
+            </ul>
+            <p class="see-all"><a href="publications.html">See all publications →</a></p>
+        </section>
+
+        <!-- Projects -->
+        <section id="projects">
+            <h2>Selected Projects</h2>
+            <ul class="project-list" id="project-list">
+                <!-- Loaded dynamically from data/projects.json -->
+            </ul>
+            <p class="see-all"><a href="projects.html">See all projects →</a></p>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <p>© 2026 Jaehyuk Heo</p>
+        </footer>
+    </div>
+    <script src="js/data-loader.js"></script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "[Samsung Electronics] Anomaly Detection for Kitchen Robot–Equipment Systems",
+    "description": "Developed multimodal anomaly detection model based on log and video data",
+    "year": "2025-2026"
+  },
+  {
+    "title": "[Samsung Electronics] Agile Equipment/Process Quality Anomaly Detection",
+    "description": "Designed algorithms for quality anomaly detection using FDC data",
+    "year": "2025-2026"
+  },
+  {
+    "title": "[Samsung Electronics] Multimodal AI for New Product Services",
+    "description": "Development of new product services using multimodal AI",
+    "year": "2024"
+  },
+  {
+    "title": "[Kakao Entertainment] Genre Novel Writing Engine",
+    "description": "Research and development of genre novel writing engine",
+    "year": "2023"
+  },
+  {
+    "title": "[NIA] Unstructured Text Data Construction",
+    "description": "Unstructured text data construction and ethics verification",
+    "year": "2023"
+  },
+  {
+    "title": "[LG Innotek] Multi-Modal Learning with Tabular and Image",
+    "description": "Developed multi-modal learning model for heterogeneous data",
+    "year": "2023-2024"
+  },
+  {
+    "title": "[Samsung S.LSI] Active Learning–based Defect Data Labelling Framework",
+    "description": "Developed Active Learning technique for defect detection",
+    "year": "2023-2024"
+  },
+  {
+    "title": "[LG Electronics] Multi-class Anomaly Detection",
+    "description": "Research on multi-class anomaly detection techniques",
+    "year": "2022"
+  },
+  {
+    "title": "[Hyundai NGV] Graph Neural Network for Control Network Anomaly Detection",
+    "description": "Anomaly detection in control networks using graph neural networks",
+    "year": "2022"
+  },
+  {
+    "title": "[Samsung Electronics DS] Yield Prediction Competition",
+    "description": "Yield prediction competition based on manufacturing process data",
+    "year": "2022"
+  },
+  {
+    "title": "[Samsung Electronics DS] Semiconductor Wafer Anomaly Detection",
+    "description": "Semiconductor wafer anomaly detection research",
+    "year": "2021"
+  },
+  {
+    "title": "[SNUBH] AI for Medical Imaging",
+    "description": "Disease diagnosis research based on brain MRA and skull X-ray images",
+    "year": "2017-2019"
+  }
+]
